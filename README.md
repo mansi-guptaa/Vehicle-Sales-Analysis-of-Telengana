@@ -88,9 +88,5 @@ This project is one of my unguided projects involving a big dataset with around 
 - **Top Vehicle Class**: Motorcycles.
 - **Top Model**: Pulsar 100 DTS-I BSVI.
 
-
-
-[Dataset Link](https://data.telangana.gov.in/dataset/a26d65d6-99ce-46e1-930e-84039fbf3a6d)
-
 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZjlmYTNjMmEtMzZiZC00NjU5LThjMjgtNzVmZDYxYjBjZjczIiwidCI6IjM1MWJiYTBmLTBhYWQtNDYzZC05ZjM3LTJlZThkZmZiMGIwMCJ9)
 
